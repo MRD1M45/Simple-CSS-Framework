@@ -1,5 +1,9 @@
 # Simple-CSS-Framework
--This is a super simple CSS framework
--Made by me
--Language : Indonesia🇮🇩
--Size : MB
+- [x] This is a super simple CSS framework
+- [x] Made by me
+- [x] Language : Indonesia🇮🇩
+- [x] Size : MB
+---
+## Benefits
+- [x] Make it easier to work
+- [x] Saving time
